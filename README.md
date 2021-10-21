@@ -1,5 +1,5 @@
-#Web Application Taxi Service
-##General info
+# Web Application Taxi Service
+## General info
 This taxi service project was created to show my skills:
 - Java Core
 - OOP
@@ -13,7 +13,7 @@ This web application implements:
 - adding manufacturers and car to the database
 - adding a driver to the car
 
-##Technologies used
+## Technologies used
 - Java 11
 - Maven
 - MySQL
@@ -21,7 +21,7 @@ This web application implements:
 - JSTL
 - Tomcat 9.0.54
 
-##Run this application
+## Run this application
 1. Install MySQL.
 2. Install Tomcat 9.0.54 version.
 3. Fork this project and clone it.
